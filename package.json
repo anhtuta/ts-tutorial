@@ -1,0 +1,18 @@
+{
+  "name": "ts-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Tuzaku",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^28.1.0",
+    "ts-jest": "^28.0.3"
+  }
+}
